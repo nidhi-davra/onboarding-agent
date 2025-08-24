@@ -4,6 +4,10 @@ This project is a conversational AI agent designed to help onboard new members o
 
 The application is built with a **FastAPI** backend and a **Streamlit** frontend.
 
+## Demo
+
+![Onboarding Agent Demo](onboarding-agent.gif)
+
 ## Project Structure
 
 ```
